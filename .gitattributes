@@ -2,3 +2,4 @@
 * text=auto
 .parcel-cache filter=lfs diff=lfs merge=lfs -text
 .parcel-cache/data.mdb filter=lfs diff=lfs merge=lfs -text
+*.parcel-cache filter=lfs diff=lfs merge=lfs -text
